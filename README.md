@@ -1,2 +1,2 @@
 # cyber-demo
-A demo repo for the cybersecurity students in Sandefjord
+A demo repo for the cyber-security students in Sandefjord
